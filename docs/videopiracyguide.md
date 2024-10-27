@@ -537,6 +537,7 @@
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports Replays
 * [F1 Full Races](https://f1fullraces.com/) - Motorsports Replays
 * [Rugby24](https://rugby24.net/) - Rugby Replays
+* [AllReplays](https://allreplays.com/) - Football Matches Replays
 
 ***
 
